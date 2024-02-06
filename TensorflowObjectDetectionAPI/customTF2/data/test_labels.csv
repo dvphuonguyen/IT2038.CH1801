@@ -1,0 +1,327 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+106-with-mask.jpg,428,484,with_mask,151,148,347,363
+108-with-mask.jpg,320,428,with_mask,63,130,250,360
+10-with-mask.jpg,233,350,with_mask,67,88,165,185
+114-with-mask.jpg,327,433,with_mask,85,125,272,366
+115-with-mask.jpg,320,428,with_mask,58,121,242,364
+118-with-mask.jpg,295,400,with_mask,79,64,238,249
+119-with-mask.jpg,320,428,with_mask,59,153,288,376
+120-with-mask.jpg,320,428,with_mask,48,120,294,358
+133-with-mask.jpg,320,428,with_mask,79,144,281,383
+137-with-mask.jpg,259,194,with_mask,72,51,165,161
+148-with-mask.jpg,320,428,with_mask,84,121,275,336
+150-with-mask.jpg,414,534,with_mask,62,160,322,465
+159-with-mask.jpg,201,289,with_mask,31,93,167,242
+162-with-mask.jpg,320,433,with_mask,73,102,284,355
+16-with-mask.jpg,332,432,with_mask,77,126,251,309
+171-with-mask.jpg,318,442,with_mask,68,138,264,371
+173-with-mask.jpg,203,233,with_mask,62,53,131,142
+178.jpg,320,428,without_mask,79,65,288,352
+179-with-mask.jpg,189,267,with_mask,28,59,168,230
+184-with-mask.jpg,379,465,with_mask,66,146,313,430
+186-with-mask.jpg,327,433,with_mask,70,111,278,369
+187-with-mask.jpg,320,428,with_mask,80,118,282,368
+190-with-mask.jpg,590,960,with_mask,199,162,469,498
+19-with-mask.jpg,603,340,with_mask,251,96,392,226
+209-with-mask.jpg,320,433,with_mask,69,143,278,384
+219-with-mask.jpg,320,433,with_mask,62,113,269,376
+229-with-mask.jpg,316,313,with_mask,112,65,240,201
+240-with-mask.jpg,179,281,with_mask,50,88,141,211
+242-with-mask.jpg,320,428,with_mask,48,131,256,374
+24-with-mask.jpg,349,367,with_mask,43,94,242,264
+251-with-mask.jpg,388,489,with_mask,96,122,240,267
+257-with-mask.jpg,320,428,with_mask,73,150,287,358
+25-with-mask.jpg,320,428,with_mask,78,121,272,350
+269-with-mask.jpg,277,405,with_mask,71,106,230,296
+26-with-mask.jpg,444,455,with_mask,67,132,291,332
+272-with-mask.jpg,190,266,with_mask,26,69,136,187
+273-with-mask.jpg,190,318,with_mask,44,94,174,233
+290-with-mask.jpg,320,433,with_mask,57,124,259,351
+295-with-mask.jpg,320,428,with_mask,67,158,271,389
+29-with-mask.jpg,320,428,with_mask,65,146,256,376
+302-with-mask.jpg,320,428,with_mask,77,132,286,385
+306-with-mask.jpg,320,428,with_mask,57,116,265,363
+307-with-mask.jpg,322,363,with_mask,80,76,274,285
+309-with-mask.jpg,320,428,with_mask,66,123,288,378
+311-with-mask.jpg,320,433,with_mask,55,107,273,344
+319-with-mask.jpg,327,433,with_mask,69,110,267,342
+32-with-mask.jpg,317,458,with_mask,58,134,210,286
+331-with-mask.jpg,327,433,with_mask,51,135,264,371
+335-with-mask.jpg,188,268,with_mask,51,74,147,167
+356-with-mask.jpg,960,960,with_mask,360,170,643,489
+35-with-mask.jpg,320,428,with_mask,67,94,270,338
+374-with-mask.jpg,336,427,with_mask,47,122,237,335
+375-with-mask.jpg,291,384,with_mask,52,111,216,296
+376-with-mask.jpg,320,428,with_mask,75,116,274,373
+381-with-mask.jpg,320,433,with_mask,59,92,268,358
+382-with-mask.jpg,320,428,with_mask,69,121,260,370
+384-with-mask.jpg,278,181,with_mask,75,25,133,87
+392-with-mask.jpg,320,428,with_mask,54,105,271,389
+395-with-mask.jpg,168,299,with_mask,29,49,156,226
+398-with-mask.jpg,320,433,with_mask,64,133,273,362
+401-with-mask.jpg,320,428,with_mask,48,114,274,391
+40-with-mask.jpg,320,428,with_mask,48,104,268,364
+411-with-mask.jpg,114,141,with_mask,4,46,84,126
+418-with-mask.jpg,276,416,with_mask,36,113,186,318
+419-with-mask.jpg,320,433,with_mask,74,101,267,348
+420-with-mask.jpg,199,253,with_mask,56,55,152,171
+422-with-mask.jpg,209,267,with_mask,34,66,135,182
+429-with-mask.jpg,250,250,with_mask,56,24,205,150
+431-with-mask.jpg,301,499,with_mask,21,120,289,445
+436-with-mask.jpg,183,275,with_mask,49,45,138,166
+442-with-mask.jpg,299,168,with_mask,162,35,228,103
+454-with-mask.jpg,320,433,with_mask,69,88,259,348
+467-with-mask.jpg,298,452,with_mask,59,99,234,337
+477-with-mask.jpg,320,428,with_mask,76,102,267,360
+478-with-mask.jpg,338,443,with_mask,36,124,274,362
+48-with-mask.jpg,306,165,with_mask,106,34,200,145
+70-with-mask.jpg,320,433,with_mask,55,147,243,360
+72-with-mask.jpg,320,428,with_mask,66,131,249,363
+73-with-mask.jpg,224,240,with_mask,71,48,161,147
+74-with-mask.jpg,225,225,with_mask,69,66,161,159
+76-with-mask.jpg,244,303,with_mask,27,118,150,247
+78-with-mask.jpg,299,168,with_mask,97,41,181,117
+7-with-mask.jpg,327,475,with_mask,29,167,317,412
+84-with-mask.jpg,231,322,with_mask,9,103,157,248
+85-with-mask.jpg,390,551,with_mask,54,158,272,403
+96-with-mask.jpg,228,221,with_mask,55,61,171,197
+97-with-mask.jpg,327,433,with_mask,68,115,264,346
+masked (10).jpg,100,150,with_mask,0,17,98,145
+masked (11).jpg,245,456,with_mask,17,79,243,399
+masked (1259).jpg,1000,1000,with_mask,154,67,737,720
+masked (1265).jpg,1000,1000,with_mask,135,237,744,839
+masked (1266).jpg,800,1000,with_mask,226,236,666,742
+masked (1268).jpg,1000,1500,with_mask,170,77,890,919
+masked (1270).jpg,1100,1100,with_mask,267,366,775,927
+masked (1275).jpg,4912,3264,with_mask,1456,829,3371,2952
+masked (1277).jpg,1000,1000,with_mask,99,231,692,878
+masked (1282).jpg,1500,1500,with_mask,480,412,1148,1172
+masked (1297).jpg,1920,1080,with_mask,654,279,1265,835
+masked (1300).jpg,718,1077,with_mask,221,92,569,686
+masked (1301).jpg,1000,1000,with_mask,254,197,670,726
+masked (1313).jpg,4734,5412,with_mask,1318,718,3714,3389
+masked (1327).jpg,1010,1010,with_mask,427,227,940,890
+masked (1330).jpg,800,800,with_mask,206,100,552,458
+masked (1332).jpg,2015,2081,with_mask,545,535,1552,1575
+masked (1335).jpg,500,500,with_mask,86,127,440,477
+masked (1337).jpg,2225,3337,with_mask,818,826,1480,1355
+masked (1342).jpg,820,820,with_mask,242,230,577,602
+masked (1352).jpg,700,900,with_mask,251,192,544,500
+masked (1355).jpg,1024,1024,with_mask,271,111,759,815
+masked (1356).jpg,1000,1000,with_mask,294,153,525,419
+masked (1362).jpg,400,400,with_mask,165,89,291,251
+masked (1363).jpg,3086,3086,with_mask,930,679,2291,2312
+masked (1366).jpg,750,750,with_mask,234,243,547,621
+masked (1377).jpg,1200,1200,with_mask,325,97,818,658
+masked (1380).jpg,1280,720,with_mask,660,186,1151,707
+masked (1384).jpg,1200,1200,with_mask,256,163,883,813
+masked (1385).jpg,458,458,with_mask,126,114,325,340
+masked (1389).jpg,1200,1200,with_mask,359,165,838,749
+masked (1390).jpg,240,300,with_mask,52,79,202,234
+masked (1393).jpg,800,800,with_mask,259,165,606,611
+masked (1396).jpg,1500,1500,with_mask,380,131,1122,934
+masked (1397).jpg,620,726,with_mask,123,200,525,666
+masked (1409).jpg,800,800,with_mask,308,139,584,482
+masked (1411).jpg,1060,810,with_mask,320,162,764,698
+masked (1426).jpg,1100,619,with_mask,390,70,722,455
+masked (1437).jpg,1100,734,with_mask,391,212,701,542
+masked (1446).jpg,1024,1024,with_mask,215,276,671,770
+masked (1455).jpg,1600,900,with_mask,425,266,652,511
+masked (1455).jpg,1600,900,with_mask,590,112,787,332
+masked (1456).jpg,1334,890,with_mask,466,171,881,609
+masked (1457).jpg,1920,1080,with_mask,610,118,1351,866
+masked (1466).jpg,500,500,with_mask,26,246,247,492
+masked (1466).jpg,500,500,with_mask,287,162,499,427
+masked (1471).jpg,440,587,with_mask,188,206,402,476
+masked (1476).jpg,600,450,with_mask,213,96,517,441
+masked (1482).jpg,956,875,with_mask,514,249,833,685
+masked (1488).jpg,620,350,with_mask,231,62,464,343
+masked (1492).jpg,350,350,with_mask,40,57,339,338
+masked (1502).jpg,1536,768,with_mask,402,8,1168,753
+masked (1508).jpg,1300,957,with_mask,397,105,768,586
+masked (1520).jpg,1280,720,with_mask,519,193,796,512
+masked (1523).jpg,848,354,with_mask,11,38,150,171
+masked (1523).jpg,848,354,with_mask,263,118,413,262
+masked (1523).jpg,848,354,with_mask,545,50,691,213
+masked (1524).jpg,740,494,with_mask,369,107,519,272
+masked (1528).jpg,1000,1000,with_mask,536,106,702,297
+masked (1530).jpg,2524,1812,with_mask,1193,662,1496,1023
+masked (1544).jpg,1280,720,with_mask,445,198,828,561
+masked (1545).jpg,736,616,with_mask,220,161,362,335
+masked (1545).jpg,736,616,with_mask,479,197,613,370
+masked (1550).jpg,1500,977,with_mask,733,150,1044,453
+masked (1551).jpg,419,276,with_mask,135,62,318,240
+masked (1553).jpg,3500,2334,with_mask,220,1586,444,1824
+masked (1553).jpg,3500,2334,with_mask,1357,1392,1579,1672
+masked (1553).jpg,3500,2334,with_mask,2081,1422,2300,1694
+masked (1553).jpg,3500,2334,with_mask,1649,1452,1909,1793
+masked (1553).jpg,3500,2334,with_mask,2670,1486,2884,1811
+masked (1553).jpg,3500,2334,with_mask,3234,1467,3450,1800
+masked (1553).jpg,3500,2334,with_mask,785,1418,1010,1706
+masked (1570).jpg,1024,576,with_mask,352,230,490,370
+masked (1570).jpg,1024,576,with_mask,455,79,550,168
+masked (1570).jpg,1024,576,with_mask,595,95,696,198
+masked (1570).jpg,1024,576,with_mask,743,81,818,160
+masked (1570).jpg,1024,576,with_mask,789,207,871,304
+masked (1570).jpg,1024,576,with_mask,950,111,1021,201
+masked (1570).jpg,1024,576,with_mask,1,71,81,174
+masked (1570).jpg,1024,576,with_mask,203,82,292,192
+masked (1570).jpg,1024,576,with_mask,81,194,181,304
+masked (1573).jpg,620,348,with_mask,80,70,270,308
+masked (1574).jpg,780,350,with_mask,120,111,247,247
+masked (1574).jpg,780,350,with_mask,330,188,475,313
+masked (1574).jpg,780,350,with_mask,521,155,651,281
+masked (1578).jpg,667,1000,with_mask,235,389,466,661
+masked (1592).jpg,1600,998,with_mask,499,218,902,707
+masked (1594).jpg,800,600,with_mask,44,149,114,214
+masked (1594).jpg,800,600,with_mask,176,75,256,158
+masked (1594).jpg,800,600,with_mask,328,115,410,198
+masked (1594).jpg,800,600,with_mask,564,67,696,196
+masked (1604).jpg,744,389,with_mask,320,59,547,327
+masked (1611).jpg,1024,789,with_mask,151,222,516,654
+masked (1622).jpg,867,650,with_mask,217,84,741,646
+masked (1623).jpg,780,439,with_mask,177,21,663,435
+masked (1630).jpg,800,533,with_mask,237,178,375,354
+masked (1630).jpg,800,533,with_mask,523,100,708,341
+masked (1633).jpg,1921,1201,with_mask,497,128,1365,1127
+masked (1642).jpg,634,478,with_mask,207,130,291,204
+masked (1642).jpg,634,478,with_mask,460,33,529,97
+masked (1642).jpg,634,478,without_mask,421,48,458,109
+masked (1643).jpg,950,460,with_mask,76,47,541,454
+masked (1643).jpg,950,460,with_mask,632,37,874,353
+masked (1646).jpg,800,480,with_mask,75,112,176,212
+masked (1646).jpg,800,480,with_mask,269,159,372,260
+masked (1646).jpg,800,480,with_mask,619,107,741,222
+masked (1649).jpg,750,886,with_mask,238,147,543,480
+masked (1651).jpg,800,480,with_mask,134,3,657,470
+masked (1652).jpg,1000,750,with_mask,407,156,561,319
+masked (1661).jpg,640,360,with_mask,472,18,590,127
+masked (1663).jpg,975,649,with_mask,321,106,570,366
+masked (1674).jpg,600,316,with_mask,83,84,121,125
+masked (1674).jpg,600,316,with_mask,280,58,319,98
+masked (1674).jpg,600,316,with_mask,235,63,266,97
+masked (1674).jpg,600,316,with_mask,310,143,352,186
+masked (1674).jpg,600,316,with_mask,436,59,475,98
+masked (1674).jpg,600,316,with_mask,544,44,593,90
+masked (1674).jpg,600,316,without_mask,125,26,165,80
+masked (1693).jpg,493,335,with_mask,215,67,282,156
+masked (1698).jpg,2560,1920,with_mask,1538,80,2293,866
+masked (1698).jpg,2560,1920,with_mask,1582,1093,2293,1777
+masked (1698).jpg,2560,1920,with_mask,368,1068,998,1739
+masked (1698).jpg,2560,1920,with_mask,296,155,931,832
+masked (1862).jpg,275,183,with_mask,117,41,180,116
+masked (1862).jpg,275,183,without_mask,16,38,75,118
+masked (1862).jpg,275,183,without_mask,202,39,253,107
+masked (1863).jpg,275,183,with_mask,183,31,226,82
+masked (1863).jpg,275,183,with_mask,51,63,86,113
+masked (1863).jpg,275,183,with_mask,86,56,117,90
+masked (1869).jpg,300,168,with_mask,62,64,147,161
+masked (1873).jpg,259,195,with_mask,53,48,159,158
+masked (1875).jpg,297,170,with_mask,96,53,180,139
+masked (1882).jpg,276,183,with_mask,65,81,108,132
+masked (1882).jpg,276,183,with_mask,193,66,234,118
+masked (1885).jpg,318,159,with_mask,21,64,92,151
+masked (1885).jpg,318,159,with_mask,178,42,255,125
+masked (1889).jpg,265,190,with_mask,177,57,227,107
+masked (1898).jpg,262,193,with_mask,140,44,188,104
+masked (1903).jpg,257,196,with_mask,31,16,208,195
+masked (1904).jpg,300,168,with_mask,161,29,206,76
+masked (1904).jpg,300,168,with_mask,51,47,102,103
+masked (1906).jpg,275,183,with_mask,14,51,41,80
+masked (1906).jpg,275,183,with_mask,37,64,59,96
+masked (1906).jpg,275,183,with_mask,61,69,92,108
+masked (1906).jpg,275,183,with_mask,98,60,131,103
+masked (1906).jpg,275,183,with_mask,150,39,179,78
+masked (1906).jpg,275,183,with_mask,155,76,191,122
+masked (1906).jpg,275,183,with_mask,226,86,261,131
+masked (1912).jpg,299,168,with_mask,161,41,243,126
+masked (3).jpg,121,164,with_mask,8,12,120,161
+unmasked (1255).jpg,183,275,without_mask,31,64,160,242
+unmasked (1256).jpg,274,366,without_mask,52,91,206,282
+unmasked (1287).jpg,320,433,without_mask,78,127,263,354
+unmasked (1291).jpg,192,262,without_mask,42,30,150,161
+unmasked (1292).jpg,320,428,without_mask,63,96,263,350
+unmasked (1303).jpg,191,264,without_mask,39,67,153,199
+unmasked (1310).jpg,224,240,without_mask,71,49,165,154
+unmasked (1313).jpg,232,217,without_mask,47,21,192,192
+unmasked (1315).jpg,167,249,without_mask,36,48,130,184
+unmasked (1316).jpg,209,258,without_mask,37,52,166,221
+unmasked (1335).jpg,320,433,without_mask,68,107,260,365
+unmasked (1339).jpg,320,433,without_mask,53,125,262,377
+unmasked (1341).jpg,296,374,without_mask,58,92,200,275
+unmasked (1374).jpg,321,434,without_mask,64,82,270,330
+unmasked (1383).jpg,374,584,without_mask,96,199,335,511
+unmasked (1389).jpg,320,433,without_mask,58,110,262,365
+unmasked (1392).jpg,225,240,without_mask,52,38,186,169
+unmasked (1398).jpg,338,414,without_mask,58,103,240,322
+unmasked (1399).jpg,225,225,without_mask,60,41,157,144
+unmasked (1411).jpg,259,194,without_mask,79,19,170,144
+unmasked (1426).jpg,222,227,without_mask,33,19,187,214
+unmasked (1429).jpg,341,456,without_mask,53,86,264,360
+unmasked (1435).jpg,309,322,without_mask,65,90,200,236
+unmasked (1452).jpg,179,281,without_mask,51,69,134,206
+unmasked (1459).jpg,315,395,without_mask,38,51,218,318
+unmasked (1461).jpg,320,433,without_mask,76,63,296,369
+unmasked (1469).jpg,327,433,without_mask,79,138,265,364
+unmasked (1473).jpg,351,416,without_mask,34,117,265,372
+unmasked (1478).jpg,277,405,without_mask,72,76,226,283
+unmasked (1490).jpg,320,428,without_mask,73,112,280,378
+unmasked (1492).jpg,320,428,without_mask,56,111,258,366
+unmasked (1494).jpg,320,433,without_mask,55,102,262,360
+unmasked (1510).jpg,320,428,without_mask,73,87,278,378
+unmasked (1512).jpg,320,433,without_mask,66,46,262,339
+unmasked (1518).jpg,327,433,without_mask,70,75,257,342
+unmasked (1523).jpg,327,433,without_mask,68,92,268,387
+unmasked (1524).jpg,323,339,without_mask,67,103,226,307
+unmasked (1525).jpg,720,720,without_mask,231,207,641,702
+unmasked (1529).jpg,327,433,without_mask,54,93,258,376
+unmasked (1533).jpg,150,178,without_mask,24,10,130,159
+unmasked (1534).jpg,189,267,without_mask,38,21,152,183
+unmasked (1536).jpg,353,554,without_mask,85,66,315,447
+unmasked (1543).jpg,356,549,without_mask,42,156,319,525
+unmasked (1550).jpg,960,960,without_mask,337,88,647,492
+unmasked (1555).jpg,320,428,without_mask,78,121,267,379
+unmasked (1556).jpg,278,309,without_mask,32,55,165,195
+unmasked (1558).jpg,320,428,without_mask,54,110,255,377
+unmasked (1563).jpg,336,427,without_mask,42,89,232,343
+unmasked (1581).jpg,320,428,without_mask,56,94,255,347
+unmasked (1587).jpg,345,362,without_mask,96,92,227,250
+unmasked (1588).jpg,318,442,without_mask,63,118,254,361
+unmasked (1596).jpg,354,340,without_mask,42,3,321,317
+unmasked (1604).jpg,275,183,without_mask,80,50,144,132
+unmasked (1605).jpg,209,267,without_mask,32,43,132,177
+unmasked (1607).jpg,640,480,without_mask,35,29,348,363
+unmasked (1613).jpg,301,499,without_mask,23,107,285,440
+unmasked (1616).jpg,960,768,without_mask,237,68,624,669
+unmasked (1620).jpg,250,283,without_mask,42,63,163,205
+unmasked (1628).jpg,405,517,without_mask,85,157,323,484
+unmasked (1632).jpg,275,183,without_mask,53,0,216,172
+unmasked (1635).jpg,320,433,without_mask,73,98,265,355
+unmasked (1639).jpg,538,521,without_mask,69,63,404,450
+unmasked (1642).jpg,320,428,without_mask,69,131,272,381
+unmasked (1644).jpg,320,433,without_mask,66,120,268,359
+unmasked (1647).jpg,320,428,without_mask,76,120,278,371
+unmasked (1649).jpg,540,960,without_mask,173,205,456,576
+unmasked (1653).jpg,320,428,without_mask,71,90,275,360
+unmasked (1663).jpg,320,428,without_mask,52,117,250,376
+unmasked (1680).jpg,576,960,without_mask,213,215,385,455
+unmasked (1683).jpg,189,258,without_mask,41,26,175,240
+unmasked (1688).jpg,320,428,without_mask,40,85,261,401
+unmasked (1699).jpg,232,217,without_mask,43,33,185,200
+unmasked (1714).jpg,320,428,without_mask,58,101,268,375
+unmasked (1730).jpg,275,183,without_mask,90,36,171,130
+unmasked (1741).jpg,327,433,without_mask,68,86,275,348
+unmasked (1746).jpg,320,428,without_mask,67,103,284,360
+unmasked (1762).jpg,320,428,without_mask,52,118,252,360
+unmasked (1777).jpg,320,428,without_mask,85,91,280,385
+unmasked (1788).jpg,320,428,without_mask,56,115,260,381
+unmasked (1793).jpg,320,433,without_mask,51,119,252,369
+unmasked (1824).jpg,320,428,without_mask,76,92,268,385
+unmasked (1839).jpg,277,405,without_mask,79,81,227,287
+unmasked (1840).jpg,271,338,without_mask,101,76,226,236
+unmasked (1865).jpg,320,428,without_mask,62,93,280,373
+unmasked (1866).jpg,320,428,without_mask,39,96,255,373
+unmasked (1869).jpg,226,280,without_mask,83,61,177,187
+unmasked (1882).jpg,320,428,without_mask,45,90,241,362
+unmasked (1891).jpg,154,225,without_mask,19,41,136,174
+unmasked (1904).jpg,320,428,without_mask,58,103,256,382
