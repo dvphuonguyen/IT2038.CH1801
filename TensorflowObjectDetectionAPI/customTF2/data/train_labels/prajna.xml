@@ -1,0 +1,25 @@
+<annotation>
+  <folder>input</folder>
+  <filename>prajna.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3456</width>
+    <height>4608</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>902</xmin>
+      <ymin>1088</ymin>
+      <xmax>1610</xmax>
+      <ymax>1230</ymax>
+    </bndbox>
+  </object>
+</annotation>

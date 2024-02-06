@@ -1,0 +1,25 @@
+<annotation>
+  <folder>input</folder>
+  <filename>311-with-mask.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>320</width>
+    <height>433</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55</xmin>
+      <ymin>107</ymin>
+      <xmax>273</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+</annotation>

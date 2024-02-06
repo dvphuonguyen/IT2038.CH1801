@@ -1,0 +1,37 @@
+<annotation>
+  <folder>input</folder>
+  <filename>masked (1885).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>318</width>
+    <height>159</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>64</ymin>
+      <xmax>92</xmax>
+      <ymax>151</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>42</ymin>
+      <xmax>255</xmax>
+      <ymax>125</ymax>
+    </bndbox>
+  </object>
+</annotation>

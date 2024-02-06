@@ -1,0 +1,37 @@
+<annotation>
+  <folder>input</folder>
+  <filename>masked (1614).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1440</width>
+    <height>907</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>290</xmin>
+      <ymin>42</ymin>
+      <xmax>665</xmax>
+      <ymax>447</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>856</xmin>
+      <ymin>135</ymin>
+      <xmax>1169</xmax>
+      <ymax>462</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+  <folder>input</folder>
+  <filename>pra2.jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3456</width>
+    <height>4608</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>988</xmin>
+      <ymin>969</ymin>
+      <xmax>3404</xmax>
+      <ymax>3936</ymax>
+    </bndbox>
+  </object>
+</annotation>
