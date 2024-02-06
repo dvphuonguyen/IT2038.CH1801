@@ -1,0 +1,25 @@
+<annotation>
+  <folder>input</folder>
+  <filename>unmasked (1448).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>249</width>
+    <height>203</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>without_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60</xmin>
+      <ymin>42</ymin>
+      <xmax>190</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+</annotation>
